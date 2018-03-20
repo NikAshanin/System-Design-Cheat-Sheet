@@ -1,4 +1,6 @@
-# system-design-cheat-sheet
+# system design cheat sheet 
+
+It can be used for interviews or assesments.
 
 ## Understand the problem and scope:
 - define the use cases, with interviewer's help
