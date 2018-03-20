@@ -1,4 +1,4 @@
-# system design cheat sheet 
+# System design cheat sheet 
 
 It can be used for interviews or assesments.
 
