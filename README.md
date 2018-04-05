@@ -23,6 +23,7 @@ It can be used for interviews or assesments.
 - how much data written per second
 - total storage required over 5 years
 - how much data read per second
+- time to market
 
 ## 3. Abstract design:
 - layers (service, data, caching)
