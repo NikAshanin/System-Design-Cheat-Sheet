@@ -3,6 +3,7 @@
 It can be used for interviews or assesments.
 
 ## 1. Understand the problem and scope:
+- What is the business drivers of the project?
 - define the use cases, with interviewer's help
 - suggest additional features
 - remove items that interviewer deems out of scope
