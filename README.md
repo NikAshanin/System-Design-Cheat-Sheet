@@ -27,6 +27,8 @@ It can be used for interviews or assesments.
 
 ## 3. Abstract design:
 - layers (service, data, caching)
+- autharization
+- security rules and protocols
 - infrastructure: load balancing, messaging
 - rough overview of any key algorithm that drives the service
 - consider bottlenecks and determine solutions
