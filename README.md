@@ -10,6 +10,12 @@ It can be used for interviews or assesments.
 - assume high availibility is required, add as a use case
 
 ## 2. Think about constraints and non-functional requirements:
+- number of customers
+- number of business growth in future
+- average response time
+- database size
+- using security protocols
+- acceptable downtime of the system
 - ask how many requests per month
 - ask how many requests per second (they may volunteer it or make you do the math)
 - estimate reads vs. writes percentage
