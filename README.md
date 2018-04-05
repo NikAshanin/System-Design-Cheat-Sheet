@@ -9,7 +9,7 @@ It can be used for interviews or assesments.
 - remove items that interviewer deems out of scope
 - assume high availibility is required, add as a use case
 
-## 2. Think about constraints:
+## 2. Think about constraints and non-functional requirements:
 - ask how many requests per month
 - ask how many requests per second (they may volunteer it or make you do the math)
 - estimate reads vs. writes percentage
