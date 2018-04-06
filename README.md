@@ -3,7 +3,17 @@
 It can be used for interviews or assesments.
 
 ## 1. Understand the problem and scope:
-- What is the business drivers of the project?
+- What is the business drivers of the project? 
+-- Who is going to use it?
+-- How are they going to use it?
+-- How many users are there?
+-- What does the system do?
+-- What are the inputs and outputs of the system?
+-- How much data do we expect to handle?
+-- How many requests per second do we expect?
+-- What is the expected read to write ratio?
+
+
 - define the use cases, with interviewer's help
 - suggest additional features
 - remove items that interviewer deems out of scope
@@ -13,7 +23,8 @@ It can be used for interviews or assesments.
 - number of customers
 - number of business growth in future
 - average response time
-- database size
+- database size (current / for the next year/ for the next 5 years)
+- storage size (current / for the next year/ for the next 5 years)
 - using security protocols
 - acceptable downtime of the system
 - ask how many requests per month
@@ -21,7 +32,6 @@ It can be used for interviews or assesments.
 - estimate reads vs. writes percentage
 - keep 80/20 rule in mide when estimating
 - how much data written per second
-- total storage required over 5 years
 - how much data read per second
 - time to market
 
@@ -42,14 +52,7 @@ It can be used for interviews or assesments.
 Step 1: Outline use cases, constraints, and assumptions
 Gather requirements and scope the problem. Ask questions to clarify use cases and constraints. Discuss assumptions.
 
-Who is going to use it?
-How are they going to use it?
-How many users are there?
-What does the system do?
-What are the inputs and outputs of the system?
-How much data do we expect to handle?
-How many requests per second do we expect?
-What is the expected read to write ratio?
+
 Step 2: Create a high level design
 Outline a high level design with all important components.
 
