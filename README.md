@@ -3,16 +3,15 @@
 It can be used for interviews or assesments.
 
 ## 1. Understand the problem and scope:
-- What is the business drivers of the project?
-
-i. Who is going to use it?
-ii. How are they going to use it?
-iii. How many users are there?
-iv. What does the system do?
-v. What are the inputs and outputs of the system?
-vi. How much data do we expect to handle?
-vii. How many requests per second do we expect?
-viii. What is the expected read to write ratio?
+- What is the business drivers of the project? <br>
+i. Who is going to use it? <br>
+ii. How are they going to use it? <br>
+iii. How many users are there? <br>
+iv. What does the system do? <br>
+v. What are the inputs and outputs of the system? <br>
+vi. How much data do we expect to handle? <br>
+vii. How many requests per second do we expect? <br>
+viii. What is the expected read to write ratio? <br>
 - define the use cases, with interviewer's help
 - suggest additional features
 - remove items that interviewer deems out of scope
