@@ -3,7 +3,8 @@
 It can be used for interviews or assesments.
 
 ## 1. Understand the problem and scope:
-- What is the business drivers of the project? 
+- What is the business drivers of the project?
+
 i. Who is going to use it?
 ii. How are they going to use it?
 iii. How many users are there?
